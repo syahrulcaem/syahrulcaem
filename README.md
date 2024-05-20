@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**syahrulcaem/syahrulcaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo, Saya M SYAHRUL ROMADHON 👋
 
-Here are some ideas to get you started:
+Saya seorang Junior Dev dengan minat dalam Data Science. Berikut beberapa hal tentang saya:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Saat ini saya sedang belajar Machine Learning,Deep Learning,dan Blockchain.
+- 🔭 Saya sedang mengerjakan Machine Learning.
+- 💬 Anda bisa bertanya kepada saya tentang Blockchain dan Cryptocurrency.
+- 📫 Bagaimana menghubungi saya: syahrulromadhonmuhammad@gmail.com.
+- 😄 Pronouns: Indonesia
+- ⚡ Fakta menarik: Saya Trader Crypto
+
+## Keterampilan
+
+- HTML,CSS,JavaScript
+- Python 
+- Analisa Teknikal,dan Fundamental 
